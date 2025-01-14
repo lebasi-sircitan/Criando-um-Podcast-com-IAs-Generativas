@@ -56,4 +56,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️  por [Isabel Brito](https://github.com/felipeAguiarCode)
+⌨️  por [Isabel Brito](https://github.com/lebasi-sircitan)
